@@ -1,0 +1,46 @@
+country,where,currency,salary_usd,salary_local,take_home_local,take_home_usd,kept_pct,fx_local_per_usd,fx_date,deductions
+United Arab Emirates,expatriate employee,AED,50000,183625,183625,50000,100,3.6725,2026-11-06,
+United Arab Emirates,expatriate employee,AED,100000,367250,367250,100000,100,3.6725,2026-11-06,
+United Arab Emirates,expatriate employee,AED,200000,734500,734500,200000,100,3.6725,2026-11-06,
+Singapore,foreigner on a work pass,SGD,50000,64079.71,61914.13,48310,96.6,1.28159,2026-11-06,For a foreigner on a work pass (no CPF): 2165.58
+Singapore,foreigner on a work pass,SGD,100000,128159.43,119135.52,92959,93,1.28159,2026-11-06,For a foreigner on a work pass (no CPF): 9023.91
+Singapore,foreigner on a work pass,SGD,200000,256318.85,224581.67,175236,87.6,1.28159,2026-11-06,For a foreigner on a work pass (no CPF): 31737.18
+Switzerland,City of Zurich,CHF,50000,40944.92,35380.07,43204,86.4,0.8189,2026-11-06,"AHV/IV/EO (old age, disability, income loss): 2170.08; Unemployment insurance: 450.39; Occupational pension (legal minimum, age 35): 724.25; Federal income tax: 143.85; Canton and City of Zurich tax: 2076.28"
+Switzerland,City of Zurich,CHF,100000,81889.83,65540.27,80035,80,0.8189,2026-11-06,"AHV/IV/EO (old age, disability, income loss): 4340.16; Unemployment insurance: 900.79; Occupational pension (legal minimum, age 35): 2771.49; Federal income tax: 962.45; Canton and City of Zurich tax: 7374.67"
+Switzerland,City of Zurich,CHF,200000,163779.67,121513.13,148386,74.2,0.8189,2026-11-06,"AHV/IV/EO (old age, disability, income loss): 8680.32; Unemployment insurance: 1630.2; Occupational pension (legal minimum, age 35): 3213; Federal income tax: 6459.55; Canton and City of Zurich tax: 22283.47"
+Singapore,"citizen or PR, 55 or under",SGD,50000,64079.71,50006.41,39019,78,1.28159,2026-11-06,"CPF (employee, citizen or PR): 12804; Income tax: 1269.3"
+Singapore,"citizen or PR, 55 or under",SGD,100000,128159.43,102394.1,79896,79.9,1.28159,2026-11-06,"CPF (employee, citizen or PR): 19200; Income tax: 6565.33"
+Singapore,"citizen or PR, 55 or under",SGD,200000,256318.85,209106.27,163161,81.6,1.28159,2026-11-06,"CPF (employee, citizen or PR): 19200; Income tax: 28012.58"
+United States,Texas (no state income tax),USD,50000,50000,42355,42355,84.7,1,2026-11-06,"Federal income tax: 3820; Social Security: 3100; Medicare: 725"
+United States,Texas (no state income tax),USD,100000,100000,79180,79180,79.2,1,2026-11-06,"Federal income tax: 13170; Social Security: 6200; Medicare: 1450"
+United States,Texas (no state income tax),USD,200000,200000,148927,148927,74.5,1,2026-11-06,"Federal income tax: 36734; Social Security: 11439; Medicare: 2900"
+Australia,resident,AUD,50000,72772.06,59285,40733,81.5,1.45544,2026-11-06,"Income tax: 12051.62; Medicare levy: 1435.44"
+Australia,resident,AUD,100000,145544.11,108101.91,74274,74.3,1.45544,2026-11-06,"Income tax: 34551.32; Medicare levy: 2890.88"
+Australia,resident,AUD,200000,291088.22,188876.76,129773,64.9,1.45544,2026-11-06,"Income tax: 96409.7; Medicare levy: 5801.76"
+United States,California,USD,50000,50000,40731.92,40732,81.5,1,2026-11-06,"Federal income tax: 3820; Social Security: 3100; Medicare: 725; California income tax: 973.08; State Disability Insurance (SDI, includes PFL): 650"
+United States,California,USD,100000,100000,72969.14,72969,73,1,2026-11-06,"Federal income tax: 13170; Social Security: 6200; Medicare: 1450; California income tax: 4910.86; State Disability Insurance (SDI, includes PFL): 1300"
+United States,California,USD,200000,200000,132116.14,132116,66.1,1,2026-11-06,"Federal income tax: 36734; Social Security: 11439; Medicare: 2900; California income tax: 14210.86; State Disability Insurance (SDI, includes PFL): 2600"
+United Kingdom,"England, Wales, Northern Ireland",GBP,50000,37355.58,30415.61,40711,81.4,0.74711,2026-11-06,"Income Tax: 4957.12; National Insurance: 1982.85"
+United Kingdom,"England, Wales, Northern Ireland",GBP,100000,74711.15,53889.87,72131,72.1,0.74711,2026-11-06,"Income Tax: 17316.46; National Insurance: 3504.82"
+United Kingdom,"England, Wales, Northern Ireland",GBP,200000,149422.3,90980.21,121776,60.9,0.74711,2026-11-06,"Income Tax: 53443.04; National Insurance: 4999.05"
+Canada,Ontario,CAD,50000,70331.39,54003.78,38392,76.8,1.40663,2026-11-06,"Federal income tax: 7343.15; Ontario income tax and Health Premium: 3884.92; Canada Pension Plan (CPP and CPP2): 3976.47; Employment Insurance: 1123.07"
+Canada,Ontario,CAD,100000,140662.79,99035.93,70407,70.4,1.40663,2026-11-06,"Federal income tax: 22874.47; Ontario income tax and Health Premium: 12982.87; Canada Pension Plan (CPP and CPP2): 4646.45; Employment Insurance: 1123.07"
+Canada,Ontario,CAD,200000,281325.57,171458.72,121893,60.9,1.40663,2026-11-06,"Federal income tax: 63505.43; Ontario income tax and Health Premium: 40591.9; Canada Pension Plan (CPP and CPP2): 4646.45; Employment Insurance: 1123.07"
+United Kingdom,Scotland,GBP,50000,37355.58,30376.99,40659,81.3,0.74711,2026-11-06,In Scotland (Scottish income tax bands): 6978.59
+United Kingdom,Scotland,GBP,100000,74711.15,51845.6,69395,69.4,0.74711,2026-11-06,In Scotland (Scottish income tax bands): 22865.55
+United Kingdom,Scotland,GBP,200000,149422.3,85066.2,113860,56.9,0.74711,2026-11-06,In Scotland (Scottish income tax bands): 64356.1
+Ireland,single person,EUR,50000,44782.8,36895.71,41194,82.4,0.89566,2026-11-06,"Income tax (after credits): 5113.12; Universal Social Charge: 876.3; PRSI: 1897.67"
+Ireland,single person,EUR,100000,89565.61,59548.16,66486,66.5,0.89566,2026-11-06,"Income tax (after credits): 23026.24; Universal Social Charge: 3195.87; PRSI: 3795.34"
+Ireland,single person,EUR,200000,179131.21,102326.92,114248,57.1,0.89566,2026-11-06,"Income tax (after credits): 58852.48; Universal Social Charge: 10361.12; PRSI: 7590.69"
+Spain,Madrid,EUR,50000,44782.8,33063.37,36915,73.8,0.89566,2026-11-06,"Income tax (IRPF, state and Madrid): 8808.56; Social security: 2910.87"
+Spain,Madrid,EUR,100000,89565.61,59326.81,66238,66.2,0.89566,2026-11-06,"Income tax (IRPF, state and Madrid): 26259.87; Social security: 3978.93"
+Spain,Madrid,EUR,200000,179131.21,110379.2,123238,61.6,0.89566,2026-11-06,"Income tax (IRPF, state and Madrid): 64773.08; Social security: 3978.93"
+France,private-sector employee,EUR,50000,44782.8,32429.95,36208,72.4,0.89566,2026-11-06,"Income tax: 3020; Basic state pension: 3269.14; Supplementary pension (Agirc-Arrco): 1795.79; CSG and CRDS: 4267.92"
+France,private-sector employee,EUR,100000,89565.61,58233.44,65018,65,0.89566,2026-11-06,"Income tax: 13035; Basic state pension: 3674.4; Supplementary pension (Agirc-Arrco): 6086.94; CSG and CRDS: 8535.83"
+France,private-sector employee,EUR,200000,179131.21,104508.79,116684,58.3,0.89566,2026-11-06,"Income tax: 38600; Basic state pension: 4032.66; Supplementary pension (Agirc-Arrco): 14918.11; CSG and CRDS: 17071.65"
+Netherlands,below state pension age,EUR,50000,44782.8,36487.77,40739,81.5,0.89566,2026-11-06,Income tax and national insurance (after tax credits): 8295.03
+Netherlands,below state pension age,EUR,100000,89565.61,58120.8,64892,64.9,0.89566,2026-11-06,Income tax and national insurance (after tax credits): 31444.81
+Netherlands,below state pension age,EUR,200000,179131.21,100529.11,112241,56.1,0.89566,2026-11-06,Income tax and national insurance (after tax credits): 78602.1
+Germany,"tax class I, no church tax",EUR,50000,44782.8,29524.53,32964,65.9,0.89566,2026-11-06,"Wage tax (Lohnsteuer): 5518; Pension insurance: 4164.8; Unemployment insurance: 582.18; Health insurance: 3918.5; Long-term care insurance: 1074.79"
+Germany,"tax class I, no church tax",EUR,100000,89565.61,53022.53,59200,59.2,0.89566,2026-11-06,"Wage tax (Lohnsteuer): 19272; Pension insurance: 8329.6; Unemployment insurance: 1164.35; Health insurance: 6103.13; Long-term care insurance: 1674"
+Germany,"tax class I, no church tax",EUR,200000,179131.21,101074.14,112849,56.4,0.89566,2026-11-06,"Wage tax (Lohnsteuer): 56428; Solidarity surcharge: 3103.54; Pension insurance: 9430.2; Unemployment insurance: 1318.2; Health insurance: 6103.13; Long-term care insurance: 1674"

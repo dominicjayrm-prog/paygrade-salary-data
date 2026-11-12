@@ -1,0 +1,51 @@
+group,name,ads_or_roles,ai_ads,ai_share_pct,median_posted_midpoint_usd,comparison_median_usd,gap_pct,snapshot
+all,AI in the title vs all other US ads,1426,1823,4.9,230825,183750,25.6,2026-11-03
+same_employer_level,AI roles vs the same employer's other roles at the same level (median of cells),426,,,,,13.2,2026-11-03
+engineers,"AI engineers vs software engineers, same employer and level (median of pairs)",230,,,,,1.4,2026-11-03
+level,senior,714,,,234750,193050,21.6,2026-11-03
+level,lead,63,,,237500,195900,21.2,2026-11-03
+level,manager,131,,,272500,221875,22.8,2026-11-03
+level,unstated,489,,,216104,160000,35.1,2026-11-03
+sector,AI,3217,352,10.9,254500,,,2026-11-03
+sector,Aerospace and defence,9403,184,2.0,192750,,,2026-11-03
+sector,Autonomous vehicles,910,147,16.2,256000,,,2026-11-03
+sector,Fintech,2958,144,4.9,233150,,,2026-11-03
+sector,Consumer,1134,127,11.2,253075,,,2026-11-03
+sector,Data and analytics,1110,105,9.5,229750,,,2026-11-03
+sector,Enterprise software,1306,90,6.9,220000,,,2026-11-03
+sector,Health tech,2256,69,3.1,205000,,,2026-11-03
+sector,Hardware and chips,922,60,6.5,,,,2026-11-03
+sector,Developer tools,1190,56,4.7,221175,,,2026-11-03
+sector,Security,1216,56,4.6,212000,,,2026-11-03
+sector,Cloud and infrastructure,865,50,5.8,215000,,,2026-11-03
+sector,Logistics,1013,48,4.7,215000,,,2026-11-03
+sector,Ecommerce tech,201,37,18.4,,,,2026-11-03
+sector,Trading,555,35,6.3,,,,2026-11-03
+sector,Biotech,596,33,5.5,205000,,,2026-11-03
+sector,Consumer brands,753,29,3.9,,,,2026-11-03
+sector,Robotics,425,28,6.6,,,,2026-11-03
+sector,Media,483,28,5.8,,,,2026-11-03
+sector,Gaming,365,25,6.8,,,,2026-11-03
+sector,Marketplace,1911,19,1.0,,,,2026-11-03
+sector,Education,164,18,11.0,,,,2026-11-03
+sector,HR tech,328,17,5.2,,,,2026-11-03
+sector,Crypto,387,12,3.1,,,,2026-11-03
+sector,Real estate,245,12,4.9,,,,2026-11-03
+sector,Government tech,449,10,2.2,,,,2026-11-03
+sector,Legal tech,328,10,3.0,,,,2026-11-03
+sector,Climate and energy,1689,9,0.5,,,,2026-11-03
+sector,Sports and betting,98,7,7.1,,,,2026-11-03
+sector,Insurance,226,3,1.3,,,,2026-11-03
+sector,Professional services,25,2,8.0,,,,2026-11-03
+sector,Nonprofit,11,1,9.1,,,,2026-11-03
+sector,Travel,3,0,0.0,,,,2026-11-03
+sector,Home services,221,0,0.0,,,,2026-11-03
+title,software engineer,224,,,215500,,,2026-11-03
+title,machine learning engineer,199,,,247500,,,2026-11-03
+title,product manager,64,,,228500,,,2026-11-03
+title,ai engineer,51,,,225000,,,2026-11-03
+title,applied ai engineer,32,,,249750,,,2026-11-03
+title,engineering manager,20,,,274399,,,2026-11-03
+title,member of technical staff,18,,,293750,,,2026-11-03
+title,ml engineer,16,,,240000,,,2026-11-03
+title,applied ai architect,15,,,284500,,,2026-11-03

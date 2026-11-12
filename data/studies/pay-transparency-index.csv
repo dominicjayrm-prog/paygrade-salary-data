@@ -1,0 +1,52 @@
+state_code,state,posting_law_in_force,law_since,job_ads,ads_with_pay_range,share_with_pay_range_pct,snapshot
+CA,California,yes,2023-01-01,14541,13302,91.5,2026-11-03
+NY,New York,yes,2023-09-17,4148,3552,85.6,2026-11-03
+TX,Texas,no,,2963,761,25.7,2026-11-03
+WA,Washington,yes,2023-01-01,1575,1464,93.0,2026-11-03
+MA,Massachusetts,yes,2025-10-29,1421,1297,91.3,2026-11-03
+IL,Illinois,yes,2025-01-01,927,655,70.7,2026-11-03
+CO,Colorado,yes,2021-01-01,764,681,89.1,2026-11-03
+DC,District of Columbia,yes,2024-06-30,612,563,92.0,2026-11-03
+AZ,Arizona,no,,566,154,27.2,2026-11-03
+GA,Georgia,no,,486,337,69.3,2026-11-03
+OH,Ohio,no,,482,249,51.7,2026-11-03
+FL,Florida,no,,461,172,37.3,2026-11-03
+VA,Virginia,yes,2026-07-01,455,358,78.7,2026-11-03
+PA,Pennsylvania,no,,373,146,39.1,2026-11-03
+NJ,New Jersey,yes,2025-06-01,319,213,66.8,2026-11-03
+UT,Utah,no,,264,125,47.3,2026-11-03
+NC,North Carolina,no,,249,98,39.4,2026-11-03
+MI,Michigan,no,,239,126,52.7,2026-11-03
+MD,Maryland,yes,2024-10-01,214,158,73.8,2026-11-03
+TN,Tennessee,no,,213,74,34.7,2026-11-03
+IN,Indiana,no,,171,29,17.0,2026-11-03
+NV,Nevada,no,,168,52,31.0,2026-11-03
+CT,Connecticut,no,,166,131,78.9,2026-11-03
+MO,Missouri,no,,119,43,36.1,2026-11-03
+AL,Alabama,no,,105,67,63.8,2026-11-03
+WV,West Virginia,no,,102,7,6.9,2026-11-03
+LA,Louisiana,no,,100,18,18.0,2026-11-03
+MS,Mississippi,no,,96,56,58.3,2026-11-03
+OR,Oregon,no,,91,43,47.3,2026-11-03
+MN,Minnesota,yes,2025-01-01,79,45,57.0,2026-11-03
+NM,New Mexico,no,,70,13,18.6,2026-11-03
+OK,Oklahoma,no,,56,23,41.1,2026-11-03
+SC,South Carolina,no,,55,24,43.6,2026-11-03
+AR,Arkansas,no,,48,18,37.5,2026-11-03
+WI,Wisconsin,no,,45,23,51.1,2026-11-03
+RI,Rhode Island,no,,43,40,93.0,2026-11-03
+KY,Kentucky,no,,39,20,51.3,2026-11-03
+NH,New Hampshire,no,,38,17,44.7,2026-11-03
+ID,Idaho,no,,38,26,68.4,2026-11-03
+HI,Hawaii,yes,2024-01-01,27,20,74.1,2026-11-03
+IA,Iowa,no,,23,14,60.9,2026-11-03
+DE,Delaware,no,,23,5,21.7,2026-11-03
+ME,Maine,yes,2026-07-29,19,5,26.3,2026-11-03
+KS,Kansas,no,,18,15,83.3,2026-11-03
+NE,Nebraska,no,,17,10,58.8,2026-11-03
+SD,South Dakota,no,,16,10,62.5,2026-11-03
+WY,Wyoming,no,,12,9,75.0,2026-11-03
+MT,Montana,no,,10,3,30.0,2026-11-03
+ND,North Dakota,no,,9,7,77.8,2026-11-03
+VT,Vermont,yes,2025-07-01,8,4,50.0,2026-11-03
+AK,Alaska,no,,5,3,60.0,2026-11-03
